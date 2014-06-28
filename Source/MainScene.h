@@ -1,13 +1,13 @@
 //
 //  MainScene.h
-//  PROJECTNAME
+//  Gamma Glider
 //
-//  Created by Viktor on 10/10/13.
-//  Copyright (c) 2013 Apportable. All rights reserved.
+//  Created by Mark on 06/26/14.
+//  Copyright (c) 2014 Apportable. All rights reserved.
 //
 
 #import "CCNode.h"
 
-@interface MainScene : CCNode
+@interface MainScene : CCNode <CCPhysicsCollisionDelegate>
 
 @end

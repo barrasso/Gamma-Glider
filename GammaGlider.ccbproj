@@ -164,6 +164,18 @@
 			<key>tabletScale</key>
 			<integer>1</integer>
 		</dict>
+		<key>gamma_icon</key>
+		<dict>
+			<key>isDirty</key>
+			<true/>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
+		<key>spacewarrior</key>
+		<dict>
+			<key>isSmartSpriteSheet</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>versionStr</key>
 	<string>Version: 1.1.0
